@@ -6,11 +6,12 @@ These GAP Days will take place in [Kaiserslautern](https://www.kaiserslautern.de
 
 ## Address
 
+<a href="https://www.openstreetmap.org/#map=19/49.42347/7.75387">
 Gottlieb-Daimler-Straße 48<br>
 67663 Kaiserslautern<br>
-Germany
+Germany</a>
 
-More details (e.g. which rooms we will be using exactly) will follown soon.
+More details (e.g. which rooms we will be using exactly) will follow soon.
 
 <!-- 
 

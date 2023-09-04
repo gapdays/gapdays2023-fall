@@ -25,21 +25,24 @@ Please visit [gapdays.de](https://www.gapdays.de) for a list of all GAP Days.
 
 ## {{ site.title }}
 
+<!-- 
 The focus of these GAP Days will be on the GAP Package distribution
 and its infrastructure.
 Please visit the [topics page]({{ site.baseurl }}/topics) for details.
+ -->
 
 The schedule can be found on [the program page]({{ site.baseurl }}/program).
 
-<!--
-automation (introduction to GitHub Actions, setting up continuous integration tests and code coverage reporting, etc.) and an overhaul of the GAP release process (hopefully culminating in a new GAP release).
+We will also include a small number of talks during the GAP Days about GAP itself. 
+If there is a particular topic in this area that
+you would like to talk about, then please include details in the comment
+box at registration, or email us later.
 
-We will also include a small number of talks during the GAP Days about the GAP infrastructure and functionalities of GitHub.
-
-While we do not want to discourage non-GAP-core programmers, we want to underline that the focus will be on working the release system of GAP.
-There will be talks and some "hands-on" sessions to give everyone the opportunity to learn the tools needed that will be most likely utilised in the release process.
-For anyone who wants to attend but feels out of depth in this, we will be looking for testers and other higher level tasks.
--->
+We warmly invite all people interested with
+little knowledge of the insides of GAP to join in as well: this includes undergraduate
+students, PhD students, post-docs, and more experienced mathematicians. You will
+be able to meet us and each other, and learn about GAP development and
+algorithmic group theory in a relaxed and friendly atmosphere.
 
 
 {{site.title}} is organised by
@@ -49,10 +52,15 @@ For anyone who wants to attend but feels out of depth in this, we will be lookin
 
 ## Registration
 
-While everything will take place in virtual reality only, we still require registration so that
-we can plan the virtual tools and sessions better. So, [please register]({{ site.baseurl }}/registration).
+{{site.title}} will take place at {{ site.location }}.
+Information about the exact location can be found on [the location page]({{ site.baseurl }}/location).
+For registration use the form on [the registration page]({{ site.baseurl }}/registration).
+
+## Sponsors
+
+This workshop is supported by [SFB-TRR 195](https://www.computeralgebra.de/sfb/) - Symbolic Tools in Mathematics and their Application.
 
 ## <a name="contact"></a> Contact
 
 If you have questions or suggestions, then please contact the organisers by
-email at [{{site.email}}](mailto:{{site.email}}).
+email via [{{site.email}}](mailto:{{site.email}}).

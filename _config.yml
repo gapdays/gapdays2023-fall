@@ -17,6 +17,7 @@ email:            mhorn@rptu.de #gapdays2023-fall@gapdays.de
 exclude: 
     - "LICENSE.hyde.md"
     - "README.hyde.md"
+    - "TODO.md"
     - "program.aux"
     - "program.log"
     - "program.out"

@@ -1,4 +1,4 @@
-This is the website for the [GAP days](https://www.gapdays.de/gapdays2022-winter).
+This is the website for the [GAP days](https://www.gapdays.de/gapdays2023-fall).
 
 It is based on [Jekyll](https://jekyllrb.com/), a static website generator,
 and the [hyde](https://github.com/poole/hyde/) template.
@@ -6,8 +6,8 @@ and the [hyde](https://github.com/poole/hyde/) template.
 If you want to test site on your own machine, first install Jekyll (as
 described on its website), then do this:
 ```
-  git clone https://github.com/gapdays/gapdays2022-winter
-  cd gapdays2022-winter
+  git clone https://github.com/gapdays/gapdays2023-fall
+  cd gapdays2023-fall
   jekyll serve -w
 ```
 Now open a browser on http://localhost:4000/ to see a live preview
